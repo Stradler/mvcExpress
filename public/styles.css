@@ -1,0 +1,23 @@
+body {
+    width: 960px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.main-img {
+    display: block;
+    max-width: 480px;
+    max-height: 480px;
+    margin: 0 auto;
+}
+
+.images {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.images--child {
+    margin: 20px;
+    width: 100px;
+    height: 100px;
+}
