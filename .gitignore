@@ -36,11 +36,7 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
-<<<<<<< HEAD
 dist/
-=======
-distro/
->>>>>>> 208896389e3d174a2e759375a39c4923e3852ac4
 # TypeScript v1 declaration files
 typings/
 
@@ -66,3 +62,5 @@ typings/
 .next
 
 yarn.lock
+
+index.js
